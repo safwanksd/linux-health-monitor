@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Change to the script's directory to ensure relative paths work
+cd "$(dirname "$0")"
+
 # A bash script to monitor server health and send alerts.
 
 # --- LOAD CONFIGURATION ---
