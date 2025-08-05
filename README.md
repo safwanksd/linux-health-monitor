@@ -53,5 +53,20 @@ The script performs the following steps:
         ```crontab
         */15 * * * * /path/to/your/linux-health-monitor/monitor.sh
         ```
+### Sample Output
+
+Here is an example of the script's log output:
+
+![Log Output](assets/log_screenshot.png)
+
+
+And here is the resulting push notification:
+
+![Notification Screenshot Mobile 1](assets/ntfy_alert_screenshot_mobile1.jpg)
+
+![Notification Screenshot Mobile 2](assets/ntfy_alert_screenshot_mobile2.jpg)
+
+![Notification Screenshot Web](assets/ntfy_screenshot_web.png)
+
 
 ---
